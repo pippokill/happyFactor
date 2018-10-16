@@ -11,7 +11,7 @@ We call this list *the happiness dictionary*.
 
 If you use the dictionary, please cite our work as follows:
 
-Pierpaolo Basile, Nicole Novielli. "'Buon appetito!'" - Analyzing Happiness in Italian Tweet. In Proceedings of the of Fifth Italian Conference on Computational Linguistics (CLiC-it 2018), Turin, Dec. 2018 (to appear).  
+* Pierpaolo Basile, Nicole Novielli. "*'Buon appetito!'* - Analyzing Happiness in Italian Tweet". In Proceedings of the of Fifth Italian Conference on Computational Linguistics (CLiC-it 2018), Turin, Dec. 2018 (to appear).  
 
 References
 ---------------
