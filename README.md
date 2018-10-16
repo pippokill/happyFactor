@@ -9,7 +9,9 @@ From the corpus, we extract a subset of words and we assign them an happiness fa
 We adopt additive smoothing (Laplace smoothing) for computing both *happy* and *sad* probabilities. In our lexicon, we include and compute the happiness factor only for words that occur at least 10,000 times, for a total of 718 words.
 We call this list *the happiness dictionary*.
 
-Please, cite our work if you use the dictionary.
+If you use the dictionary, please cite our work as follows:
+
+Pierpaolo Basile, Nicole Novielli. "'Buon appetito!'" - Analyzing Happiness in Italian Tweet. In Proceedings of the of Fifth Italian Conference on Computational Linguistics (CLiC-it 2018), Turin, Dec. 2018 (to appear).  
 
 References
 ---------------
